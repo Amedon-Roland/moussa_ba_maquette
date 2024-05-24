@@ -1,7 +1,7 @@
 # moussa_ba_maquette
 
 A new Flutter project.
-
+![Aperçu ](capture.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
